@@ -1,4 +1,5 @@
 ## SMOOTHIE: (Multi-)Scalar Multiplication Optimizations On TFHE
+Code for the paper: https://eprint.iacr.org/2025/1267
 
 ## Setup code
 - Clone the tfhe-rs library: `git clone https://github.com/zama-ai/tfhe-rs.git ; cd tfhe-rs`
