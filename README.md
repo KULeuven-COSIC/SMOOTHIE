@@ -2,7 +2,7 @@
 
 ## Setup code
 - Clone the tfhe-rs library: `git clone https://github.com/zama-ai/tfhe-rs.git ; cd tfhe-rs`
-- Switch to the correct version: `git checkout 37934e42c11b634d8156ecd2faceab5ee33fceb3`
+- Switch to the correct version (V0.11.0): `git checkout 37934e42c11b634d8156ecd2faceab5ee33fceb3`
 - Copy patch file and apply patch to the repo: `git apply ../smoothie.patch`
 
 ## Source code
